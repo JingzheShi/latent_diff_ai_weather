@@ -1,0 +1,2 @@
+val/loss_simple,val/loss_vlb,val/loss,val/sunny_acc,val/inval_acc,val/loss_simple_ema,val/loss_vlb_ema,val/loss_ema,val/sunny_acc_ema,val/inval_acc_ema,epoch,step
+2.8019237518310547,0.011885205283761024,2.8019237518310547,0.965087890625,0.92919921875,2.4199728965759277,0.014518584124743938,2.4199728965759277,0.95458984375,0.8994140625,0,0
